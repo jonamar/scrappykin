@@ -1,4 +1,9 @@
-// @use 'abstracts/variables';
+@use 'abstracts/variables' as v;
+
+.test {
+    color: v.$pink
+}
+
 // @use 'abstracts/mixins';
 
 // @use 'base/normalize';
@@ -21,3 +26,4 @@
 
 // @use 'themes/theme';
 // @use 'themes/admin';
+
