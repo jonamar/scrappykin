@@ -1,3 +1,3 @@
 # scrappykin
 
-testing push/pull w local computer 
+the website of scrappy kin
