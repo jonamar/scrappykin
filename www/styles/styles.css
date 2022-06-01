@@ -1,0 +1,17 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: altivo, sans-serif;
+}
+
+body {
+  background: pink;
+}
+
+h1 {
+  color: #000;
+}
+/*# sourceMappingURL=styles.css.map */

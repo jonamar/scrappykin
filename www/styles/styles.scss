@@ -1,9 +1,13 @@
 @use 'abstracts/variables' as v;
 
-.test {
-    color: v.$pink;
-    border: 1px;
+body {
+    background: v.$pink;
 }
+h1 {
+    color: v.$black;
+}
+
+
 
 // @use 'abstracts/mixins';
 
