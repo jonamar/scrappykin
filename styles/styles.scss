@@ -1,0 +1,30 @@
+@use 'abstracts/variables' as v;
+
+.test {
+    color: v.$pink;
+    border: 1px;
+}
+
+// @use 'abstracts/mixins';
+
+// @use 'base/normalize';
+// @use 'base/reset';
+// @use 'base/typography';
+
+// @use 'layout/header';
+// @use 'layout/footer';
+// @use 'layout/sidebar';
+// @use 'layout/navigation';
+// @use 'layout/forms';
+
+// @use 'components/buttons';
+// @use 'components/carousel';
+// @use 'components/slider';
+
+// @use 'pages/home';
+// @use 'pages/about';
+// @use 'pages/contact';
+
+// @use 'themes/theme';
+// @use 'themes/admin';
+
