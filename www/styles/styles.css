@@ -7,6 +7,13 @@ h6 {
   font-family: altivo, sans-serif;
 }
 
+a,
+b, strong,
+p,
+ul, ol, li {
+  font-family: "Courier New", Courier, monospace;
+}
+
 body {
   background: pink;
 }
