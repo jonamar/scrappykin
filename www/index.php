@@ -4,6 +4,8 @@ include 'head.php';?>
 
     <h1>Pigeon Perfect</h1>
 
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas accusamus dolores, libero hic officia ut. Similique corporis vero eaque voluptatibus, quaerat sit amet ea, hic eius a deleniti totam! Velit?</p>
+    <p>We’re deeply entangled in a planet full of life. Yet we constantly cast ourselves apart. The amazing critters that we are sounded by, our neighbors, are ignored and villainized. The imagined “majestic beasts” from afar are anthropomorphized with human features and morality; dominant predators, cute pals. Nature shows position us as biosphere tourists.</p>
+    <p>We badly need new narratives, new relationships, new eyes. Ones that build connections and see humans in the fullness of our entangled reality.</p>
+    <p><strong>We are a part of the planet, not apart from it.</strong></p>
 
 <?php include 'foot.php';?>
