@@ -1,19 +1,7 @@
 @use 'abstracts/variables' as v;
-
-body {
-    background: v.$pink;
-}
-h1 {
-    color: v.$black;
-}
-
-
-
-
-
 // @use 'abstracts/mixins';
 
-// @use 'base/normalize';
+@use 'base/normalize';
 // @use 'base/reset';
 // @use 'base/typography';
 
@@ -33,4 +21,16 @@ h1 {
 
 // @use 'themes/theme';
 // @use 'themes/admin';
+
+
+body {
+    background: v.$pink;
+}
+h1 {
+    color: v.$black;
+}
+
+
+
+
 
