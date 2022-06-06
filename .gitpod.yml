@@ -13,6 +13,7 @@ tasks:
     echo " * apachectl start";
     echo " * gp open /var/log/apache2/access.log";
     echo " * gp open /var/log/apache2/error.log";
+    npx tailwindcss -i ./www/src/input.css -o ./www/dist/output.css --watch
 - name: Apache
   command: >
     apachectl start &&

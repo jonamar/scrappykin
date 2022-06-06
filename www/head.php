@@ -24,7 +24,8 @@
   <link rel="apple-touch-icon" href="icon.png"> -->
   
   <link rel="stylesheet" href="https://use.typekit.net/eiw7pxd.css">
-  <link rel="stylesheet" type="text/css" href="./styles/styles.css">
+  <!-- <link rel="stylesheet" type="text/css" href="./styles/styles.css"> -->
+  <link rel="stylesheet" type="text/css" href="./dist/output.css">
   
   <!-- HUH? 
   <link rel="manifest" href="site.webmanifest">
